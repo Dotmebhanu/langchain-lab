@@ -1,6 +1,6 @@
 # LangChain Experiments
 
-This repository contains my learning experiments with LangChain and RAG.
+structured learning progression from zero to building production RAG systems
 
 ## Topics Covered
 
